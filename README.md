@@ -1,16 +1,59 @@
-### Hi there 👋
+<h1 style="text-align:center" >Heyo👋</h1>
 
-<!--
-**darajsv/darajsv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img alt="GIF" src="https://media1.tenor.com/images/f16b686fdd0d4b6520ae15bf53005560/tenor.gif?itemid=13875960" width= 400 style="display:block; margin-right:auto;margin-left:auto"/>
 
-Here are some ideas to get you started:
+<h2 style="text-align:center"> Hi! My name is Dara and I'm currently getting a bachelor's degree in Computer Science 👩‍💻 </h2>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<hr style="background-color:pink">
+<br>
+
+## At the moment I've been working with:
+
+<br>
+
+![JS](https://img.shields.io/badge/-JavaScript-C64DE8?style=for-the-badge&logo=javascript)
+![Python](https://img.shields.io/badge/-Python-C64DE8?style=for-the-badge&logo=python)
+![Nodejs](https://img.shields.io/badge/-Node.js-C64DE8?style=for-the-badge&logo=node.js)
+![Vuejs](https://img.shields.io/badge/-Vue.js-C64DE8?style=for-the-badge&logo=vue.js)
+![Mongodb](https://img.shields.io/badge/-mongoDB-C64DE8?style=for-the-badge&logo=mongodb)
+![GIT](https://img.shields.io/badge/-git-C64DE8?style=for-the-badge&logo=git)
+![Mongodb](https://img.shields.io/badge/-scrum-C64DE8?style=for-the-badge&logo=scrum)
+
+## Learning:
+
+<br>
+
+![.Net](https://img.shields.io/badge/-.Net-C64DE8?style=for-the-badge&logo=.net)
+![PostgreSQL](https://img.shields.io/badge/-postgresql-C64DE8?style=for-the-badge&logo=postgresql)
+![React-native](https://img.shields.io/badge/-React-C64DE8?style=for-the-badge&logo=react)
+![Docker](https://img.shields.io/badge/-docker-C64DE8?style=for-the-badge&logo=docker)
+
+## But I'm also familiar with:
+
+<br>
+
+![C](https://img.shields.io/badge/-C-C64DE8?style=for-the-badge&logo=c)
+![C++](https://img.shields.io/badge/-C++-C64DE8?style=for-the-badge&logo=c%2B%2B)
+![Java](https://img.shields.io/badge/-java-C64DE8?style=for-the-badge&logo=java)
+![MySQL](https://img.shields.io/badge/-mysql-C64DE8?style=for-the-badge&logo=mysql)
+
+<br><hr style="background-color:pink"><br>
+
+<h2 style="text-align:center">Some extra information</h2><br>
+
+<p><img  style="display:block; margin-right:auto;margin-left:auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=darajsv&layout=compact&theme=jolly" alt="darajsv most used languages" /></p>
+
+<p><img style="display:block; margin-right:auto;margin-left:auto" src="https://github-readme-stats.vercel.app/api?username=darajsv&count_private=true&show_icons=true=true&theme=jolly" alt="darajsv Stats Card" /></p>
+
+<br><hr style="background-color:pink">
+
+<h2 style="text-align:center">Where to Find Me 🔍</h2><br>
+
+<a target="_blank" href="https://www.linkedin.com/in/darajsv/">
+  <img alt="LinkedIN" src="https://img.shields.io/badge/-LinkedIn-A547FF?style=for-the-badge&logo=linkedin"/>
+
+ <a target="_blank" href="https://github.com/darajsv">
+  <img  alt="Github" src="https://img.shields.io/badge/-Github-A547FF?style=for-the-badge&logo=github" /></a>
+
+ <a target="_blank" href="https://gitlab.com/darajsv">
+  <img  alt="GitLab" src="https://img.shields.io/badge/-GitLab-A547FF?style=for-the-badge&logo=gitlab" /></a>
