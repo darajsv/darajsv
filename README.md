@@ -4,7 +4,7 @@
   <img alt="GIF" src="https://media1.tenor.com/images/f16b686fdd0d4b6520ae15bf53005560/tenor.gif?itemid=13875960" width= 400 />
 </div>
 
-<h2 align="center"> Hi! My name is Dara and I'm currently getting a bachelor's degree in Computer Science 👩‍💻 </h2>
+<h2 align="center"> Hi! My name is Dara and I'm currently getting a backend node developer 👩‍💻 </h2>
 
 <hr color='pink'>
 <br>
@@ -14,21 +14,15 @@
 <br>
 
 ![JS](https://img.shields.io/badge/-JavaScript-C64DE8?style=for-the-badge&logo=javascript)
-![Python](https://img.shields.io/badge/-Python-C64DE8?style=for-the-badge&logo=python)
+![PostgreSQL](https://img.shields.io/badge/-postgresql-C64DE8?style=for-the-badge&logo=postgresql)
 ![Nodejs](https://img.shields.io/badge/-Node.js-C64DE8?style=for-the-badge&logo=node.js)
-![Vuejs](https://img.shields.io/badge/-Vue.js-C64DE8?style=for-the-badge&logo=vue.js)
-![Mongodb](https://img.shields.io/badge/-mongoDB-C64DE8?style=for-the-badge&logo=mongodb)
-![GIT](https://img.shields.io/badge/-git-C64DE8?style=for-the-badge&logo=git)
-![Mongodb](https://img.shields.io/badge/-scrum-C64DE8?style=for-the-badge&logo=scrum)
 
 <h2> Learning: </h2>
 
 <br>
 
 ![.Net](https://img.shields.io/badge/-.Net-C64DE8?style=for-the-badge&logo=.net)
-![PostgreSQL](https://img.shields.io/badge/-postgresql-C64DE8?style=for-the-badge&logo=postgresql)
 ![React-native](https://img.shields.io/badge/-React-C64DE8?style=for-the-badge&logo=react)
-![Docker](https://img.shields.io/badge/-docker-C64DE8?style=for-the-badge&logo=docker)
 
 <h2> But I'm also familiar with: </h2>
 
